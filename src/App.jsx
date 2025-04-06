@@ -3,7 +3,7 @@ import Header from './components/nav_bar/Header'
 import Trendings from './components/sub_home/Trendings'
 import Popular from './components/sub_home/Popular'
 import Upcoming from './components/sub_home/Upcoming'
-import ComingSoon from './components/sub_home/Comingsoon'
+import ComingSoon from './components/sub_home/ComingSoon'
 import Footer from './components/nav_bar/Footer'
 import Home from './pages/Home'
 
